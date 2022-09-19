@@ -1,4 +1,3 @@
-<style type="text/css">
 .hidden{display: none;}
 @media screen and (max-width: 480px){
 tr.listhead {display: none;}
@@ -13,4 +12,3 @@ table.punchtable td {display: block;text-align: left;padding: 10px;}
 span.forMobilePunch {display: none;}
 }
 
-</style>
